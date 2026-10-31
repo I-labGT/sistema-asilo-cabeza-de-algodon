@@ -1,0 +1,11 @@
+# Nunca subir contraseñas
+_CONFIDENCIAL*/
+*CONFIDENCIAL*
+Evidencias/pruebas/claves_iniciales.json
+claves_iniciales.json
+Evidencias/pruebas/resultados/
+# Sistema operativo / editores
+Thumbs.db
+.DS_Store
+desktop.ini
+.vscode/
